@@ -8,7 +8,7 @@
 
 Although digitalisation is in the trend, handwritten examinations are comfortable. There is always a need for handwritten text recognition (HTR) models to automate evaluations. It is also challenging because of the virtually infinite number of ways a letter/word can be written by the very same person. The dataset used in the study is **Kazakh offline Handwritten Text Recognition (KOHTR)** dataset, which comprises of:
 - 3000 handwritten exam scripts
-- &gt;140335 image semgnets
+- &gt;140335 image segments
 - ~ 922010 symbols
 
 Paper Link: https://arxiv.org/abs/2110.04075
