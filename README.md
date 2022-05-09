@@ -31,3 +31,8 @@ The SRCNN architecture has a total of three convolutional layers. First convolut
 <img width="510" alt="Screenshot 2022-04-30 at 6 27 39 PM" src="https://user-images.githubusercontent.com/60711014/166106543-9d0be1d0-b192-4704-a2a7-3e450687c6ac.png">
 
 <img width="520" alt="Screenshot 2022-04-30 at 6 27 49 PM" src="https://user-images.githubusercontent.com/60711014/166106552-71064864-3665-41e2-be1a-90f3e3b59841.png">
+
+# Running Instructions
+
+1. Run the addGaussianBlur.py to add Gaussian blur to all images in the dataset. Make sure the src_dir in the code is replaced with the directory of the images of your dataset.
+2. Run the deblur.ipynb to produce SRCNN model. More the number of epochs will produce better results.
